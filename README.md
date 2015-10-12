@@ -1,10 +1,8 @@
-## �Q�l ## 
+## 参考 ## 
 
 * http://viewpoint-nk.github.io/blog/jasmine/jasmine-basic.html
 
-## �X�N���[���V���b�g ##
+## スクリーンショット ##
 
-* image/index-failure.jpg
-* image/index-success.jpg
-* [![���j�b�g�e�X�g���s��](image/index-failure.jpg)](image/index-failure.jpg)
-* [![���j�b�g�e�X�g������](image/index-success.jpg)](image/index-success.jpg)
+* ユニットテスト失敗時 [![ユニットテスト失敗時](image/index-failure.jpg)](image/index-failure.jpg)
+* ユニットテスト成功時 [![ユニットテスト成功時](image/index-success.jpg)](image/index-success.jpg)
